@@ -2,4 +2,9 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, I'm Shoira
+Software Developer
+I'm glad you are here. 
+Currently reading ...
+Currently learning - Udacity Nanodegree Data Structures and Algorithms
+Currently working on Setting up my Github pages
