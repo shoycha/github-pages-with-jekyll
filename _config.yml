@@ -1,9 +1,9 @@
-theme: jekyll-theme-architect
+theme: minima
 title: Shoira creates by coding
 author: Shoira Shamsieva
 email: shoira.shamsieva@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Shoira - human, mother, software developer, Americanized Uzbek
+  Shoira - human, mother, software developer
 
 # social links
 twitter_username: shoiradev
